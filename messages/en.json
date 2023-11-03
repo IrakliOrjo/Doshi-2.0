@@ -1,0 +1,22 @@
+{
+  "Index": {
+    "title": "BAREV"
+  },
+  "Header": {
+    "title": "About us"
+  },
+  "Banner": {
+    "title": "Delivery in Erevan",
+    "p": "Fresh sushi and rolls"
+  },
+  "Menu": {
+    "more": "...More details"
+  },
+  "ItemDetails": {
+    "cart": "Add to cart"
+  },
+  "CartBottom": {
+    "total": "Total:"
+  }
+  
+}
